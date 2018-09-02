@@ -1,0 +1,7 @@
+id=prjWIPE
+name=Project WIPE Systemless
+version=w_0603.2,m_0811
+versionCode=081102
+author=yc9559 & cjybyjk @ coolapk
+description=将 Project WIPE 0603.2 安装到系统中
+minMagisk=17000
